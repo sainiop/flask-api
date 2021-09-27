@@ -1,4 +1,4 @@
-# flask-api-postgres
+# flask-api
 CRUD operation using flask api and postgres database
 
 Intial setup follow up for docker and docker desktop https://docs.docker.com/get-started/ 
