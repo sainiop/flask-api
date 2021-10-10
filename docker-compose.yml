@@ -11,7 +11,7 @@ services:
     ports:
       - 5432:5432
 #    volumes:
-#      - $HOME/IdeaProjects/shippio_api_assignment/db_data:/var/lib/postgresql/data
+#      - $HOME/path_to_dir:/var/lib/postgresql/data
   pgadmin:
     container_name: pgadmin
     image: dpage/pgadmin4
